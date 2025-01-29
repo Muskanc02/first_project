@@ -6,4 +6,11 @@ notebooks/.env
 notebooks/.DS_Store
 .DS_Store
 *.in
+data/raw/SYB67_176_202411_Tourist-Visitors Arrival and Expenditure.csv
+data/raw/SYB67_285_202411_Research and Development Expenditure and Staff.csv
+data/raw/SYB67_328_202411_Intentional homicides and other crimes.csv
+data/raw/SYB67_329_202411_Labour Force and Unemployment.csv
+notebooks/__pycache__/functions.cpython-312.pyc
+workflopw.txt
 project1_venv/
+
