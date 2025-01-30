@@ -56,22 +56,29 @@ uv pip install -r requirements.txt
 ```
 
 # Questions 
-...
+- The dataset displayed country/region/area data regarding unemployment, tourism, crime rates, and R&D.
+
+We are looking to test the following hypothesis:
+
+- Higher R&D investment and tourism contribute to economic growth, leading to lower unemployment and crime rates.
+- Higher rate of unemployment lead to higher number of crimes.
+- Countries with strong labor markets (low unemployment) attract more tourists and experience lower crime rates.
 
 # Dataset 
-...
+The team picked four different datasets csv files from the UN website (https://data.un.org/): unemployment & labor force, crime, tourism, and research & development
 
 ## Main dataset issues
 
-- ...
-- ...
-- ...
+- Column names were not all in the same format.
+- Column values had multiple incorrect formats and null values.
+- Headers for the columns were wrong.
+- Irrelevant columns.
 
 ## Solutions for the dataset issues
-...
+- Cleaned column headers by replacing the spaces for "_" and making the letters in lower case format.
+- Filled null values with "0" or "N/A" when necessary.
+- Removed rows to show the correct column headers.
+- Removed any irrelevant columns.
 
 # Conclussions
-...
-
-# Next steps
-...
+- The initial hypothesis were supported by the analysis.

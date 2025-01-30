@@ -50,7 +50,8 @@ continents={
         'Republic of Korea', 'Saudi Arabia', 'Singapore', 'Sri Lanka', 'Syrian Arab Republic', 'Tajikistan',
         'Thailand', 'Timor-Leste', 'Turkey', 'Turkmenistan', 'United Arab Emirates', 'Uzbekistan', 'Vietnam','Asia',
         'Yemen', 'China, Hong Kong SAR', 'China, Macao SAR', 'Dem. Rep. of the Congo', 'Korea, North (Dem. People\'s Republic of)',
-        'Viet Nam', 'Caucasus', 'Central Asia', 'Eastern Asia', 'South-eastern Asia', 'Southern Asia', 'Western Asia','State of Palestine'
+        'Viet Nam', 'Caucasus', 'Central Asia', 'Eastern Asia', 'South-eastern Asia', 'Southern Asia', 'Western Asia','State of Palestine',
+        'South-central Asia'
     ],
     "Europe": [
         'Albania', 'Andorra', 'Armenia', 'Austria', 'Azerbaijan', 'Belarus', 'Belgium', 'Bosnia and Herzegovina',
