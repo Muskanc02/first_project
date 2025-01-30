@@ -65,7 +65,6 @@ uv pip install -r requirements.txt
 
 - Higher R&D investment and tourism contribute to economic growth, leading to lower unemployment and crime rates.
 - Higher rate of unemployment lead to higher number of crimes.
-- Countries with strong labor markets (low unemployment) attract more tourists and experience lower crime rates.
 
 # Dataset 
 The team picked four different datasets csv files from the UN website (https://data.un.org/): unemployment & labor force, crime, tourism, and research & development
