@@ -1,5 +1,5 @@
 # Project overview
-...
+The dataset displayed country/region/area data regarding unemployment, tourism, crime rates, and R&D globally.
 
 # Installation
 
@@ -55,10 +55,13 @@ If you're a Windows user type:
 uv pip install -r requirements.txt
 ```
 
-# Questions 
-- The dataset displayed country/region/area data regarding unemployment, tourism, crime rates, and R&D.
+# Slide presentation
 
-We are looking to test the following hypothesis:
+- https://docs.google.com/presentation/d/1YlZzdETY-emjRir9cUDgWQ5Juu6fl1RqSZXtkhXkVtI/edit?usp=sharing
+
+# Questions 
+
+## We are looking to test the following hypothesis:
 
 - Higher R&D investment and tourism contribute to economic growth, leading to lower unemployment and crime rates.
 - Higher rate of unemployment lead to higher number of crimes.
