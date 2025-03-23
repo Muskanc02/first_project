@@ -54,27 +54,6 @@ If you're a Windows user type:
 ```bash
 uv pip install -r requirements.txt
 ```
-
-## Slide presentation
-
-- https://docs.google.com/presentation/d/1YlZzdETY-emjRir9cUDgWQ5Juu6fl1RqSZXtkhXkVtI/edit?usp=sharing
-
-## Research Questions & Hypotheses
-
-1.The project aimed to answer the following key research questions:
-
-2.Does higher investment in R&D and an increase in tourism contribute to economic growth, thereby reducing unemployment and crime rates?
-
-3.Is there a direct correlation between high unemployment rates and increased crime levels?
-
-4.How does the labor market interact with crime trends over time?
-
-
-## Hypothesis :
-
-- H1.Higher R&D investment and tourism contribute to economic growth, leading to lower unemployment and crime rates.
-- H2.Higher rate of unemployment lead to higher number of crimes.
-
 # Dataset 
 The dataset was compiled using multiple CSV files from the United Nations data repository (UN Data):
 
@@ -102,6 +81,26 @@ Research & Development (R&D) Expenditure: Details investment in innovation and t
 - Standardized column headers (replacing spaces with underscores and converting to lowercase).
 - Corrected misaligned headers by manually adjusting column placements.
 
+## Slide presentation
+
+- https://docs.google.com/presentation/d/1YlZzdETY-emjRir9cUDgWQ5Juu6fl1RqSZXtkhXkVtI/edit?usp=sharing
+
+## Research Questions & Hypotheses
+
+1.The project aimed to answer the following key research questions:
+
+2.Does higher investment in R&D and an increase in tourism contribute to economic growth, thereby reducing unemployment and crime rates?
+
+3.Is there a direct correlation between high unemployment rates and increased crime levels?
+
+4.How does the labor market interact with crime trends over time?
+
+
+## Hypothesis :
+
+- H1.Higher R&D investment and tourism contribute to economic growth, leading to lower unemployment and crime rates.
+- H2.Higher rate of unemployment lead to higher number of crimes.
+
 
 ## Methodology
 
@@ -111,6 +110,8 @@ Our data analysis process involved:
 - Correlation Analysis: Measured relationships between GDP, unemployment, crime, tourism, and R&D investment.
 - Hypothesis formation: Based on the data analysis proved the hypothesis as right or wrong.
 - Interpretation & Insights: Derived conclusions based on observed trends and statistical significance.
+
+
 
 ## Key Findings & Conclusions
 - Tourism and GDP Growth: Countries with higher tourism revenues showed stronger economic stability and lower unemployment rates.
